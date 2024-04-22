@@ -14,5 +14,6 @@ Table name : auto usate
 - immagine VARCHAR(255) | NULL | DEFAULT('https:images/lorem10/.png')
 - condizione VARCHAR(150) | NULL 
 - note | TEXT | NULL
+- stato |  VARCHAR(150) | NOTNULL
 
 
